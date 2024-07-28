@@ -1,0 +1,28 @@
+.menu-note {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 36px;
+  width: 100%;
+}
+.card-note {
+  display: flex;
+  justify-content: space-between;
+  width: 95%;
+  height: 50px;
+  padding: 5px;
+  border-radius: 7px;
+  box-shadow: rgb(114, 114, 114) 0px 0px 2px 1px inset;
+  margin-top: 5px;
+}
+.card-note > div:nth-child(2) {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-note > div:nth-child(2) > img {
+   margin: 0px 3px;
+   cursor: pointer;
+  }
+  
