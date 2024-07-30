@@ -3,7 +3,7 @@
 Aplicacion par que puedas crear , guardar eliminar y ocultar tu notas desde tu pc (win, linux, mac)
 
   <div>
-    <img src="https://raw.githubusercontent.com/cristianflobo/resources/img_git.png" width="300" title="hover text">
+    <img src="https://raw.githubusercontent.com/cristianflobo/Notes/resources/img_git.png" width="300" title="hover text">
   <div/>
 
 ## Project Setup
