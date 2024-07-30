@@ -1,10 +1,11 @@
-# notes
+# Notes
 
-An Electron application with React and TypeScript
+Aplicacion par que puedas crear , guardar eliminar y ocultar tu notas desde tu pc (win, linux, mac)
 
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+<h2>IUVITY<h2/>
+  <div>
+    <img src="https://raw.githubusercontent.com/cristianflobo/frontApp-iu/main/src/image/Screenshot_20221103_193518.jpg" width="300" title="hover text">
+  <div/>
 
 ## Project Setup
 
