@@ -6,7 +6,10 @@ Aplicación en la cual puedas crear, guardar, eliminar y ocultar tus notas desde
     <img src="https://github.com/cristianflobo/Notes/blob/5e6dfb37e5d5e5ced9d0cc68fd3bbe2773a4edc6/resources/img_git.png?raw=true" width="300" title="img text">
   <div/>
     
-  <a href="https://drive.google.com/drive/folders/184KEpbHoZItdrtM3pbBFY95NV29zfS87?usp=sharing" target="_blank" >Descarga el ejecutable o instalador para tu sistema operativo</a>
+  <a href="https://drive.google.com/drive/folders/184KEpbHoZItdrtM3pbBFY95NV29zfS87?usp=sharing" target="_blank" >Linux</a>
+  <a href="https://drive.google.com/drive/folders/1rMISdjJSd1NC3eclpfGfYc1uU9jpo0Se?usp=sharing" target="_blank" >Windows <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31"></img> </a>
+  
+  
     
 ## Project Setup
 
