@@ -1,12 +1,18 @@
 # Notes
 
-Aplicacion par que puedas crear , guardar eliminar y ocultar tu notas desde tu pc (win, linux, mac)
+Aplicación en la cual puedas crear, guardar, eliminar y ocultar tus notas desde tu PC (win, linux, mac). Fue desarrollada en ElectronJS.
 
-<h2>IUVITY<h2/>
   <div>
-    <img src="https://raw.githubusercontent.com/cristianflobo/frontApp-iu/main/src/image/Screenshot_20221103_193518.jpg" width="300" title="hover text">
+    <img src="https://github.com/cristianflobo/Notes/blob/5e6dfb37e5d5e5ced9d0cc68fd3bbe2773a4edc6/resources/img_git.png?raw=true" width="300" title="img text">
   <div/>
-
+  <div style="display: flex;flex-direction: column;">
+    <a href="https://drive.google.com/drive/folders/184KEpbHoZItdrtM3pbBFY95NV29zfS87?usp=sharing" target="_blank" >Linux ubuntu 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ubuntu-logo-2022.svg/200px-Ubuntu-logo-2022.svg.png" width="80"></img> </a>
+    <a href="https://drive.google.com/drive/folders/1rMISdjJSd1NC3eclpfGfYc1uU9jpo0Se?usp=sharing" target="_blank" >, Windows
+      <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" width="80"></img> </a>
+  </div> 
+  
+    
 ## Project Setup
 
 ### Install
