@@ -3,7 +3,7 @@
 Aplicación en la cual puedas crear, guardar, eliminar y ocultar tus notas desde tu PC (win, linux, mac). Fue desarrollada en ElectronJS.
 
   <div>
-    <img src="https://github.com/cristianflobo/Notes/blob/main/resources/img_git.png?raw=true" width="300" title="img text">
+    <img src="https://github.com/cristianflobo/Notes/blob/main/resources/img_git.png?raw=true" title="img text">
   <div/>
   <div style="display: flex;flex-direction: column;">
     <a href="https://drive.google.com/drive/folders/184KEpbHoZItdrtM3pbBFY95NV29zfS87?usp=sharing" target="_blank" >Linux ubuntu 
